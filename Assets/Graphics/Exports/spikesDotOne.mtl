@@ -1,0 +1,101 @@
+newmtl blinn8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bark_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Stone_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd opacity_Maya3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sandPillars_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd temple_A_Red.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Leaves_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Stone_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn53SG
+illum 4
+Kd 0.06 0.26 0.10
+Ka 0.00 0.00 0.00
+Tf 0.58 0.58 0.58
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn54SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Spikes_Maya.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__blinn45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sandPillars_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl pasted__blinn45SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sandPillars_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl templeBricksMatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd templeBricks_A_Red.png
+Ni 1.00
+Ks 0.00 0.00 0.00

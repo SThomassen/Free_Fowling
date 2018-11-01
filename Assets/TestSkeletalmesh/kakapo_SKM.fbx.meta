@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 5141e108f8a5baa498423b428aa7c3b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Kakapo
+    100002: Kakapo_Behind_Bone
+    100004: Kakapo_Head_Bone
+    100006: Kakapo_L_Foot
+    100008: Kakapo_L_Hip_Bone
+    100010: Kakapo_L_Knee_Bone
+    100012: Kakapo_L_Wing_Elbow
+    100014: Kakapo_L_Wing_Tip
+    100016: Kakapo_Neck_Bone
+    100018: Kakapo_Origin_Bone
+    100020: Kakapo_Pelvis
+    100022: Kakapo_R_Foot
+    100024: Kakapo_R_Hip_Bone
+    100026: Kakapo_R_Knee_Bone
+    100028: Kakapo_R_Wing_Elbow
+    100030: Kakapo_R_Wing_Tip
+    100032: //RootNode
+    100034: Kakapo_Wing_Shoulder
+    100036: Kakapo_Wing_Shoulder1
+    400000: Kakapo
+    400002: Kakapo_Behind_Bone
+    400004: Kakapo_Head_Bone
+    400006: Kakapo_L_Foot
+    400008: Kakapo_L_Hip_Bone
+    400010: Kakapo_L_Knee_Bone
+    400012: Kakapo_L_Wing_Elbow
+    400014: Kakapo_L_Wing_Tip
+    400016: Kakapo_Neck_Bone
+    400018: Kakapo_Origin_Bone
+    400020: Kakapo_Pelvis
+    400022: Kakapo_R_Foot
+    400024: Kakapo_R_Hip_Bone
+    400026: Kakapo_R_Knee_Bone
+    400028: Kakapo_R_Wing_Elbow
+    400030: Kakapo_R_Wing_Tip
+    400032: //RootNode
+    400034: Kakapo_Wing_Shoulder
+    400036: Kakapo_Wing_Shoulder1
+    2100000: KakapoMat
+    4300000: Kakapo
+    9500000: //RootNode
+    13700000: Kakapo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

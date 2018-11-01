@@ -1,0 +1,71 @@
+newmtl blinn8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bark_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd loopable-stars-black-empty-space-4k_vjj549yxl__F0000.png
+map_Ka loopable-stars-black-empty-space-4k_vjj549yxl__F0000.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd opacity_Maya3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Backdrop_Maya.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sandPillars_A.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd temple_A_Red.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl blinn47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6760135001_58b1c5c5f0_b.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl templeBricksMatSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd templeBricks_A_Red.png
+Ni 1.00
+Ks 0.00 0.00 0.00
